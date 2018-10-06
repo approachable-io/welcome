@@ -1,4 +1,4 @@
-# welcome
+# welcome.
 
 Approachable IO is an organization founded on the principle of "Approachability First" open source software development. The goal of Approachable IO is to create projects that allow developers of all experience levels to contribute to the project. Contributing to open source projects can be an intimidating endeavor, and Approachable IO is aiming to lower the complexity for those who wish to contribute to open source projects.
 
